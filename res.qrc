@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/image.png</file>
+        <file>image/pingcan.png</file>
+        <file>image/temeperature.png</file>
+        <file>image/text.png</file>
+        <file>image/time.png</file>
+        <file>image/timing.png</file>
+        <file>image/font.jpg</file>
+        <file>image/未标题-2.jpg</file>
+    </qresource>
+</RCC>
